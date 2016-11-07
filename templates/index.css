@@ -1,0 +1,30 @@
+menu {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: auto;
+	z-index: 1000;
+}
+
+ul {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: lightblue;
+}
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	color: black;
+	text-align: center;
+}
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+body {
+    color: darkblue;
+    margin-left: 20px;
+}
